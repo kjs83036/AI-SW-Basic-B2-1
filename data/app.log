@@ -1,0 +1,132 @@
+[TIMED] cmd_category 0.033s
+[2026-05-15 04:23:01] OK    cmd_category
+[TIMED] cmd_list 0.028s
+[2026-05-15 04:23:25] OK    cmd_list
+[TIMED] cmd_add 0.012s
+[2026-05-15 04:23:35] OK    cmd_add
+[TIMED] cmd_add 0.010s
+[2026-05-15 04:23:43] ERR   cmd_add EOFError: EOF when reading a line
+[TIMED] cmd_add 0.009s
+[2026-05-15 04:24:33] OK    cmd_add
+[TIMED] cmd_add 0.008s
+[2026-05-15 04:24:33] OK    cmd_add
+[TIMED] cmd_add 0.008s
+[2026-05-15 04:24:33] OK    cmd_add
+[TIMED] cmd_list 0.007s
+[2026-05-15 04:24:40] OK    cmd_list
+[TIMED] cmd_summary 0.022s
+[2026-05-15 04:24:40] OK    cmd_summary
+[TIMED] cmd_budget 0.012s
+[2026-05-15 04:24:55] OK    cmd_budget
+[TIMED] cmd_summary 0.010s
+[2026-05-15 04:24:55] OK    cmd_summary
+[TIMED] cmd_search 0.007s
+[2026-05-15 04:26:44] OK    cmd_search
+[TIMED] cmd_search 0.007s
+[2026-05-15 04:26:44] OK    cmd_search
+[TIMED] cmd_update 0.008s
+[2026-05-15 04:26:53] OK    cmd_update
+[TIMED] cmd_list 0.007s
+[2026-05-15 04:26:53] OK    cmd_list
+[TIMED] cmd_delete 0.007s
+[2026-05-15 04:26:53] OK    cmd_delete
+[TIMED] cmd_list 0.007s
+[2026-05-15 04:26:53] OK    cmd_list
+[TIMED] cmd_export 0.011s
+[2026-05-15 04:26:58] OK    cmd_export
+[TIMED] cmd_import 0.011s
+[2026-05-15 04:26:58] OK    cmd_import
+[TIMED] cmd_list 0.007s
+[2026-05-15 04:26:58] OK    cmd_list
+[TIMED] cmd_delete 0.008s
+[2026-05-15 04:29:13] ERR   cmd_delete NotFoundError: id=TX-999999 거래를 찾을 수 없습니다.
+[TIMED] cmd_category 0.006s
+[2026-05-15 04:29:22] ERR   cmd_category CategoryInUseError: 카테고리 'food'은(는) 거래 내역에서 사용 중입니다.
+[TIMED] cmd_category 0.007s
+[2026-05-15 04:30:04] OK    cmd_category
+[TIMED] cmd_add 0.008s
+[2026-05-15 04:30:13] OK    cmd_add
+[TIMED] cmd_add 0.008s
+[2026-05-15 04:30:13] OK    cmd_add
+[TIMED] cmd_add 0.010s
+[2026-05-15 04:30:13] OK    cmd_add
+[TIMED] cmd_add 0.008s
+[2026-05-15 04:30:14] OK    cmd_add
+[TIMED] cmd_list 0.008s
+[2026-05-15 04:30:20] OK    cmd_list
+[TIMED] cmd_search 0.007s
+[2026-05-15 04:30:20] OK    cmd_search
+[TIMED] cmd_budget 0.005s
+[2026-05-15 04:30:20] OK    cmd_budget
+[TIMED] cmd_summary 0.008s
+[2026-05-15 04:30:20] OK    cmd_summary
+[TIMED] cmd_update 0.009s
+[2026-05-15 04:30:30] OK    cmd_update
+[TIMED] cmd_delete 0.008s
+[2026-05-15 04:30:30] OK    cmd_delete
+[TIMED] cmd_list 0.007s
+[2026-05-15 04:30:31] OK    cmd_list
+[TIMED] cmd_export 0.007s
+[2026-05-15 04:30:31] OK    cmd_export
+[TIMED] cmd_import 0.009s
+[2026-05-15 04:30:31] OK    cmd_import
+[TIMED] cmd_list 0.008s
+[2026-05-15 04:30:31] OK    cmd_list
+[TIMED] cmd_delete 0.010s
+[2026-05-15 04:33:00] ERR   cmd_delete NotFoundError: id=INVALID-ID 거래를 찾을 수 없습니다.
+[TIMED] cmd_summary 0.007s
+[2026-05-15 04:33:01] OK    cmd_summary
+[TIMED] cmd_backup 0.005s
+[2026-05-15 04:33:05] OK    cmd_backup
+[TIMED] cmd_category 0.009s
+[2026-05-15 04:36:50] OK    cmd_category
+[TIMED] cmd_category 0.007s
+[2026-05-15 04:37:14] OK    cmd_category
+[TIMED] cmd_category 0.009s
+[2026-05-15 04:37:14] OK    cmd_category
+[TIMED] cmd_category 0.007s
+[2026-05-15 04:37:20] OK    cmd_category
+[TIMED] cmd_category 0.009s
+[2026-05-15 04:37:23] OK    cmd_category
+[TIMED] cmd_add 26.046s
+[2026-05-15 04:38:00] OK    cmd_add
+[TIMED] cmd_list 0.011s
+[2026-05-15 04:38:18] OK    cmd_list
+[TIMED] cmd_list 0.009s
+[2026-05-15 04:38:52] OK    cmd_list
+[TIMED] cmd_search 0.010s
+[2026-05-15 04:38:59] OK    cmd_search
+[TIMED] cmd_search 0.007s
+[2026-05-15 04:39:12] OK    cmd_search
+[TIMED] cmd_search 0.010s
+[2026-05-15 04:39:31] OK    cmd_search
+[TIMED] cmd_search 0.009s
+[2026-05-15 04:39:38] OK    cmd_search
+[TIMED] cmd_search 0.007s
+[2026-05-15 04:39:43] OK    cmd_search
+[TIMED] cmd_budget 0.005s
+[2026-05-15 04:40:04] OK    cmd_budget
+[TIMED] cmd_summary 0.010s
+[2026-05-15 04:40:11] OK    cmd_summary
+[TIMED] cmd_update 0.008s
+[2026-05-15 04:40:23] OK    cmd_update
+[TIMED] cmd_delete 0.008s
+[2026-05-15 04:40:31] ERR   cmd_delete NotFoundError: id=TX-000003 거래를 찾을 수 없습니다.
+[TIMED] cmd_list 0.010s
+[2026-05-15 04:40:45] OK    cmd_list
+[TIMED] cmd_delete 0.008s
+[2026-05-15 04:40:59] OK    cmd_delete
+[TIMED] cmd_export 0.007s
+[2026-05-15 04:41:10] OK    cmd_export
+[TIMED] cmd_import 0.011s
+[2026-05-15 04:41:21] OK    cmd_import
+[TIMED] cmd_delete 0.007s
+[2026-05-15 04:41:27] ERR   cmd_delete NotFoundError: id=TX-999999 거래를 찾을 수 없습니다.
+[TIMED] cmd_backup 0.003s
+[2026-05-15 04:41:45] OK    cmd_backup
+[TIMED] cmd_delete 0.007s
+[2026-05-15 04:42:44] ERR   cmd_delete NotFoundError: id=TX-999999 거래를 찾을 수 없습니다.
+[TIMED] cmd_delete 0.007s
+[2026-05-15 04:44:27] ERR   cmd_delete NotFoundError: id=TX-999999 거래를 찾을 수 없습니다.
+[TIMED] cmd_delete 0.007s
+[2026-05-15 04:45:19] ERR   cmd_delete NotFoundError: id=TX-999999 거래를 찾을 수 없습니다.

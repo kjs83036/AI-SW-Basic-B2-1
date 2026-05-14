@@ -1,0 +1,7 @@
+id,type,date,amount,category,memo,tags
+TX-000001,income,2024-01-14,3000000,salary,월급,
+TX-000002,expense,2024-01-15,17000,food,점심,meal
+TX-000004,expense,2024-01-20,150000,rent,월세,
+TX-000005,income,2024-01-14,3000000,salary,월급,
+TX-000006,expense,2024-01-15,17000,food,점심,meal
+TX-000007,expense,2024-01-20,150000,rent,월세,
